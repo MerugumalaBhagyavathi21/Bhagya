@@ -34,8 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merugumalabhagyavathi&" alt="merugumalabhagyavathi" /></p>
 
-# 💫 About Me:
-🔭 I’m currently working on Real time Web Applications<br><br>🌱 I’m currently learning Devops<br><br>👯 I’m looking to collaborate on Manual and Automation Testers<br><br>🤝 I’m looking for help with Full Stack Testing Developers<br><br>💬 Ask me about Manual Testing, SQL, Java, Automation Testing, BDD Cucumber, POM, TestNG, API Testing<br><br>📫 How to reach me bhagyavathi443@gmail.com<br><br>⚡ Fun fact "Bug hunter, quality champion, automation wizard."
 
 
 ## 🌐 Socials:
