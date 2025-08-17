@@ -34,4 +34,31 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merugumalabhagyavathi&" alt="merugumalabhagyavathi" /></p>
 
+# 💫 About Me:
+🔭 I’m currently working on Real time Web Applications<br><br>🌱 I’m currently learning Devops<br><br>👯 I’m looking to collaborate on Manual and Automation Testers<br><br>🤝 I’m looking for help with Full Stack Testing Developers<br><br>💬 Ask me about Manual Testing, SQL, Java, Automation Testing, BDD Cucumber, POM, TestNG, API Testing<br><br>📫 How to reach me bhagyavathi443@gmail.com<br><br>⚡ Fun fact "Bug hunter, quality champion, automation wizard."
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhagyavathi443@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MerugumalaBhagyavathi21&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MerugumalaBhagyavathi21&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MerugumalaBhagyavathi21&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MerugumalaBhagyavathi21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MerugumalaBhagyavathi21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MerugumalaBhagyavathi21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
