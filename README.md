@@ -6,6 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merugumalabhagyavathi" alt="merugumalabhagyavathi" /></a> </p>
 
 - # 💫 About Me:
+
+Experienced in Automation and Manual Testing. Started with Manual Testing, then moved to Automation Testing using Selenium WebDriver with Java, Cucumber BDD, TestNG, API testing with Postman and REST Assured, database testing. By being passionate about learning and open the door to endless possibilities and opportunities for personal and professional development.currently working on Selenium Webdriver With Java, TestNG, Functoional Testing, learning Gen AI and Cloud Services
+
+
 🔭 I’m currently working on **Real time Web Applications**<br><br>- 🌱 I’m currently learning **Devops**<br><br>- 👯 I’m looking to collaborate on **Manual and Automation Testers**<br><br>- 🤝 I’m looking for help with **Full Stack Testing Developers**<br><br>- 💬 Ask me about **Manual Testing, SQL, Java, Automation Testing, BDD Cucumber, POM, TestNG, API Testing**<br><br>- 📫 How to reach me **bhagyavathi443@gmail.com**<br><br>- ⚡ Fun fact **"Bug hunter, quality champion, automation wizard."**<br>
 
 
